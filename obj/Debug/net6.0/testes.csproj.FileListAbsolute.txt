@@ -1,0 +1,15 @@
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.csproj.AssemblyReference.cache
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.AssemblyInfoInputs.cache
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.AssemblyInfo.cs
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.csproj.CoreCompileInputs.cache
+/home/igorl/Trybe/Exercices/testes/bin/Debug/net6.0/testes
+/home/igorl/Trybe/Exercices/testes/bin/Debug/net6.0/testes.deps.json
+/home/igorl/Trybe/Exercices/testes/bin/Debug/net6.0/testes.runtimeconfig.json
+/home/igorl/Trybe/Exercices/testes/bin/Debug/net6.0/testes.dll
+/home/igorl/Trybe/Exercices/testes/bin/Debug/net6.0/ref/testes.dll
+/home/igorl/Trybe/Exercices/testes/bin/Debug/net6.0/testes.pdb
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.dll
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/ref/testes.dll
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.pdb
+/home/igorl/Trybe/Exercices/testes/obj/Debug/net6.0/testes.genruntimeconfig.cache
